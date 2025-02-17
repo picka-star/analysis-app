@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+emoji
+nltk
+openpyxl
+seaborn
+PySastrawi
+wordcloud
+plotly
